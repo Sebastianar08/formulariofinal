@@ -1,0 +1,20 @@
+{
+  "contactos": [
+    {
+      "id": "5b5c",
+      "nombres": "Jesús Sebastian",
+      "apellidos": "Alva Rivadeneira",
+      "correo": "example@gmail.com",
+      "telefono": "930496367",
+      "mensaje": "SOY ALUMNO DE SENATI"
+    },
+    {
+      "id": "1031",
+      "nombres": "Bastian",
+      "apellidos": "Alvares",
+      "correo": "example@hotmail.com",
+      "telefono": "956756369",
+      "mensaje": "Deseo postular a la empresa, soy alumno de 6to semestre de la carrera Ing Software con IA, sede Independencia."
+    }
+  ]
+}

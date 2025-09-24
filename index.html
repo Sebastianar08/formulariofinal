@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario de Contacto</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <section class="container">
+    <h1>Formulario de Contacto Simple</h1>
+
+
+    <form id="contactForm">
+      <h2>Contacto</h2>
+      <input type="text" id="nombres" placeholder="Nombres" required>
+      <input type="text" id="apellidos" placeholder="Apellidos" required>
+      <input type="email" id="correo" placeholder="E-mail" required>
+      <input type="tel" id="telefono" placeholder="Teléfono" required>
+      <textarea id="mensaje" placeholder="Escribe tu mensaje" required></textarea>
+      <button type="submit">Enviar</button>
+      <div id="confirmacion" class="msg"></div>
+    </form>
+  </section>
+
+  <script src="js/app.js"></script>
+</body>
+</html>
